@@ -42,7 +42,7 @@ with grafana and then exported to CSV.
 **Data accessibility:** Available at GitHub: https://github.com/westermo/test-system-performance-dataset
 
 **Related research article:** P E Strandberg. (2021). Automated System-Level Software Testing of
-Industrial Networked Embedded Systems, PhD Thesis, M¨alardalen University. ISBN: 978-91-7485-529-6.
+Industrial Networked Embedded Systems, PhD Thesis, Mälardalen University. ISBN: 978-91-7485-529-6.
 [4]
 
 
@@ -266,8 +266,8 @@ Development in Cyber-Physical Systems. In Euromicro Conferenece on Digital Syste
 [3] S. Salahshour Torshizi. Software performance anomaly detection through analysis of test data by
 multivariate techniques. Master’s thesis, Uppsala University, 2022.
 
-[4] P. E. Strandberg. Automated System-Level Software Testing of Industrial Networked Embedded Sys-
-tems. PhD thesis, Mälardalen University, 2021. Online at: https://arxiv.org/abs/2111.08312 .
+[4] P. E. Strandberg. Automated System-Level Software Testing of Industrial Networked Embedded Systems.
+PhD thesis, Mälardalen University, 2021. Online at: https://arxiv.org/abs/2111.08312 .
 
 [5] P. E. Strandberg. The Westermo test results data set. arXiv preprint:2211.13622, 2022.
 Online at: https://github.com/westermo/test-results-dataset .
@@ -275,3 +275,4 @@ Online at: https://github.com/westermo/test-results-dataset .
 [6] P. E. Strandberg, D. Söderman, A. Dehlaghi-Ghadim, M. Leon, T. Markovic, S. Punnekkat, M. H.
 Moghadam, and D. Buffoni. The Westermo network traffic data set. Data in Brief, 50:109512, 2023.
 Online at: https://github.com/westermo/network-traffic-dataset .
+
